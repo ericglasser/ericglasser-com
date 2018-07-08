@@ -16,6 +16,7 @@ disqusShortname = "ericglasser"
 [params] # theme parameters
     author = "Eric Glasser"
     info = "Creative Technologist"
+    avatarurl = "images/eric_glasser.png" # Contain the path of the optionnal avatar in the static folder.
     description = "My personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
