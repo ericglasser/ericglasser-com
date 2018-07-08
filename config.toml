@@ -1,3 +1,44 @@
-baseURL = "http://example.org/"
+baseURL = "https://ericglasser.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Eric Glasser's Personal Site"
+theme = "coder"
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "ericglasser"
+
+[params] # theme parameters
+    author = "Eric Glasser"
+    info = "Creative Technologist"
+    description = "My personal website" # Site description.
+    keywords = "blog,developer,personal" # Site keywords.
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = true
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/ericglasser"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/ericglasser"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/ericglasser/"
