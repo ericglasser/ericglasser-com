@@ -15,14 +15,16 @@ disqusShortname = "ericglasser"
 
 [params] # theme parameters
     author = "Eric Glasser"
-    info = "Creative Technologist"
+    info = "Developer Experience Evangelist"
     avatarurl = "images/eric_glasser.png" # Contain the path of the optionnal avatar in the static folder.
     description = "My personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = true
+
+    # footercontent = "Enter a text here." # Add footer content
 
     # Custom CSS
     custom_css = []
