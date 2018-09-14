@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Sr. DevOps Enginner",
+        "company":"Trace3",
+        "summary":"Leading DevOps and Container transformations",
+        "range":"July 2017 - Present"
+    },
+    {
+        "role":"Solutions Architect",
+        "company":"Minerva Group, LLC",
+        "summary":"We are a venture capital group that invests intellectual equity to transform ideas into successful products. The core company of Minerva is a think tank of experienced technologists who are passionate about the goal of building products that change the way people interact with their world. We focus on building products that take everyday tasks and interactions of our users and fundamentally improve them. Every employee has a chance to become part of the equity of the company, and thus have an owner’s stake in all of Minerva's brands. This fosters a culture of ownership internally that ensures we deliver the best results.",
+        "range":"May 2015 - July 2017"
+    },
+    {
+        "role":"Manager, UX Development",
+        "company":"Charter Communications ",
+        "summary":"Worked on proprietary Javascript framework to run on cable boxes. Worked with back end teams to develop APIs, and troubleshoot issues through multiple departments and vendors. Wrote unit testable code, and code reviewed developers. Provided network support to a team of 100 people. Managed development of a company wide product release site.",
+        "range":"August 2014 - May 2015"
+    }
+]

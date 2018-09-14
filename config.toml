@@ -1,47 +1,49 @@
-baseURL = "https://ericglasser.com"
+baseURL = "https://ericglasser.com/"
 languageCode = "en-us"
-title = "Eric Glasser's Personal Site"
-theme = "coder"
-languagecode = "en"
+title = "Eddie Webb"
+theme = "hugo-resume"
 
-paginate = 20
-canonifyurls = true
+[params]
+    firstName = "Eric"
+    lastName = "Glasser"
+    address = "Denver, CO"
+    contactNote = "Developer Experience Evangelist"
+    profileImage = "images/eric_glasser.png"
+    email = "eric@ericglasser.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    # favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
 
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+    showQr = false
 
-disqusShortname = "ericglasser"
-
-[params] # theme parameters
-    author = "Eric Glasser"
-    info = "Developer Experience Evangelist"
-    avatarurl = "images/eric_glasser.png" # Contain the path of the optionnal avatar in the static folder.
-    description = "My personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
-
-    # Whether you want to hide copyright and credits in the footer.
-    hideCredits = true
-    hideCopyright = true
-
-    # footercontent = "Enter a text here." # Add footer content
-
-    # Custom CSS
-    custom_css = []
-
-    # RTL support
-    rtl = false
-
-# Social links
-[[params.social]]
-    name = "Github"
-    weight = 1
-    url = "https://github.com/ericglasser"
-[[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = "https://twitter.com/ericglasser"
-[[params.social]]
+[[params.handles]]
     name = "LinkedIn"
-    weight = 3
-    url = "https://www.linkedin.com/in/ericglasser/"
+    link = "https://www.linkedin.com/in/ericglasser/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ericglasser/"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/ericglasser/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/2063495/ericglasser"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/ericglasser"
+    icon = "key"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

@@ -1,0 +1,21 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[ "Kubernetes","12-Factor Apps","Containers","PAAS","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Ruby","Python","git","subversion","linux","bash","php","jquery","javascript"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Github","Bitbucket","NGINX","MySQL","Wordpress", "Hugo", "MongoDB", "GitLab", "Jenkins"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
+      ]
+  }
+]
