@@ -17,5 +17,12 @@
           {"name":"AWS","link":"https://aws.amazon.com"},
           {"name":"Google Cloud","link":"https://cloud.google.com"}
       ]
+  },
+  {
+    "grouping":"Certifications",
+      "skills":[
+          {"name":"AWS Certified DevOps Engineer Professional","link":"https://aws.amazon.com/certification/certified-devops-engineer-professional/"},
+          {"name":"AWS Certified Developer Assosiate","link":"https://aws.amazon.com/certification/certified-developer-associate/"}
+      ]
   }
 ]
