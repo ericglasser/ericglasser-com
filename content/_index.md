@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>My career has spanned a wide range of industries from startups to enterprise and everything in between. Technology is my creative outlet, and am always looking for something new to learn. I straddle the line between engineering and leadership living solidly within both worlds. This has lead to a holistic view on problem solving that combines people, process, and technology. I have become an evangelist for developer experience and sustainable software architectures. My core belief is that working with technology doesn't have to be a painful process and it should make your life easier.</p>
