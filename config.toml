@@ -6,7 +6,7 @@ theme = "hugo-resume"
 [params]
     firstName = "Eric"
     lastName = "Glasser"
-    address = "Denver, CO"
+    address = "Denver"
     contactNote = "Developer Experience Evangelist"
     profileImage = "images/eric_glasser.png"
     email = "eric@ericglasser.com"
