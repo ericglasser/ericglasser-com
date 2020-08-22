@@ -1,9 +1,19 @@
 [
     {
-        "role":"Principal Enginner (The Container Guy)",
+        "role":"Sr. Cloud Application Architect",
+        "company":"Amazon Web Services (AWS)",
+        "range":"March 2020 - Present"
+    },
+    {
+        "role":"Sr. Technical Account Manager",
+        "company":"Amazon Web Services (AWS)",
+        "range":"June 2019 - March 2020"
+    },
+    {
+        "role":"Principal Engineer (The Container Guy)",
         "company":"Trace3",
         "summary":"Leading DevOps and Container transformations",
-        "range":"July 2017 - Present"
+        "range":"July 2017 - June 2019"
     },
     {
         "role":"Solutions Architect",
@@ -24,8 +34,8 @@
         "range":"March  2014 – August 2014"
     },
     {
-        "role":"Crispin Porter & Bogusky",
-        "company":"LRXD",
+        "role":"Developer",
+        "company":"Crispin Porter & Bogusky",
         "summary":"Developed websites for large brands such as Kraft and American Express. Worked with clients on problem solving and architecture planning. Worked with and developed proprietary APIs. Worked with creatives in order to build marketing campaigns. Mentored junior developers and interns.",
         "range":"January  2013 – February 2014"
     },
