@@ -10,7 +10,7 @@ theme = "hugo-resume"
     profileImage = "images/eric_glasser.png"
     email = "eric@ericglasser.com"
     description = "I am a versatile and experienced software engineer with a passion for technology and a holistic approach to problem-solving, focusing on sustainable software architectures and developer experience."
-    # favicon = "images/favicon.ico"
+    favicon = "favicon.ico"
     # what sections
     showSkills = true
     showProjects = false
