@@ -1,13 +1,21 @@
 [
     {
+        "role":"Principal Cloud Application Architect",
+        "company":"Amazon Web Services (AWS)",
+        "range":"April 2022 - Present"
+    },
+    {
         "role":"Sr. Cloud Application Architect",
         "company":"Amazon Web Services (AWS)",
-        "range":"March 2020 - Present"
+        "range":"March 2020 - March 2022",
+        "summary":"Technical leader alongside customer business, development and infrastructure teams. Lead technical and design discussions with IT executives to help enterprises speed their adoption of new technologies and practices. aArchitected and built highly scalable, cloud-native applications on the AWS platform using core developer services like API Gateway, Lambda, SQS, DynamoDB and ECS. Migrated monolithic applications to micro services architectures. Advise customers on implementing AWS best practices. Influence customer infrastructure architecture by sharing your application development expertise."
     },
     {
         "role":"Sr. Technical Account Manager",
         "company":"Amazon Web Services (AWS)",
-        "range":"June 2019 - March 2020"
+        "range":"June 2019 - March 2020",
+        "summary":"As a Senior TAM, I built and execute strategies to drive my customers’ adoption and use of AWS services, including EC2, S3, DynamoDB & RDS databases, Lambda, CloudFront CDN, IoT, and many more. Represented AWS within a customer’s environment, and drove discussions with senior leadership regarding incidents, trade-offs, support and risk management. Provided advocacy and strategic technical guidance to help plan and build solutions using best practices, and proactively monitored my customers’ AWS environments to keep them operationally healthy."
+
     },
     {
         "role":"Principal Engineer (The Container Guy)",
