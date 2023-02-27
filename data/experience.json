@@ -40,36 +40,36 @@
         "role":"Developer",
         "company":"LRXD",
         "summary":"Developed and maintained Ruby on Rails customer loyalty application. Developed a responsive admin panel for doctor’s office email management system. Setup and maintained Jenkins continuous deployment server.",
-        "range":"March  2014 – August 2014"
+        "range":"March  2014 - August 2014"
     },
     {
         "role":"Developer",
         "company":"Crispin Porter & Bogusky",
         "summary":"Developed websites for large brands such as Kraft and American Express. Worked with clients on problem solving and architecture planning. Worked with and developed proprietary APIs. Worked with creatives in order to build marketing campaigns. Mentored junior developers and interns.",
-        "range":"January  2013 – February 2014"
+        "range":"January  2013 - February 2014"
     },
     {
         "role":"Entrepreneur/Developer",
         "company":"Tritium Studios",
         "summary":"Founded and manage web development company for small and medium sized companies. Manage both employees and independent contractors. Consult with businesses regarding the development of their digital and marketing strategy.",
-        "range":"April 2011 – December 2012"
+        "range":"April 2011 - December 2012"
     },
     {
         "role":"Technology Intern",
         "company":"R/GA",
         "summary":"Worked on and tested mobile applications for Nike. Developed client documentation for Verizon. Updated Nokia’s development and testing site for their worldwide kiosk system. Worked on and developed PHP web applications.",
-        "range":"June 2010 – August 2010"
+        "range":"June 2010 - August 2010"
     },
     {
         "role":"Engineering Intern",
         "company":"Skanska USA Building Inc.",
         "summary":"Designed and Developed Excel and Access database systems for creating metrics of accounts payable. Researched and prepared a report on green technology to be distributed within the organization.",
-        "range":"June 2009 – August 2009"
+        "range":"June 2009 - August 2009"
     },
     {
         "role":"Mutual Fund Analyst Intern",
         "company":"Joseph Gunnar & Co, LLC",
         "summary":"Created Excel spreadsheets to analyze mutual funds, and present the results in a usable form. Designed manual of the companies mutual fund software, in order to assist brokers.",
-        "range":"June 2008 – August 2008"
+        "range":"June 2008 - August 2008"
     }
 ]
