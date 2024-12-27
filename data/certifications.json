@@ -1,0 +1,21 @@
+[
+	{
+	{
+		"name":"AWS Solutions Architect",
+		"description": "AWS Certified Solutions Architect – Professional",
+		"badge":"https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png",
+		"proof":"https://www.credly.com/badges/61028504-fbc6-440d-9872-6c9301134aea"
+	},
+	{
+		"name":"AWS DevOps Engineer",
+		"description": "AWS Certified DevOps Engineer – Professional",
+		"badge":"https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png",
+		"proof":"https://www.credly.com/badges/3cb1ac18-fd9e-414d-996d-67fad6757c83"
+	},
+	{
+		"name":"AWS Cloud Practitioner",
+		"description": "AWS Certified Cloud Practitioner",
+		"badge":"https://images.credly.com/size/640x640/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
+		"proof":"https://www.credly.com/badges/7e6f4ee6-b0a0-4e10-989a-a65418aec032"
+	}
+]
