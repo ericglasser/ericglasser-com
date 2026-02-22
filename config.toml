@@ -18,7 +18,7 @@ enableGitInfo = false
     address = "Denver, CO"
     profileImage = "images/eric_glasser.png"
     email = "eric@ericglasser.com"
-    description = "I am a versatile and experienced software engineer with a passion for technology and a holistic approach to problem-solving, focusing on sustainable software architectures and developer experience."
+    description = "I am a versatile software engineer and cloud architect with a passion for technology and a holistic approach to problem-solving, focusing on highly scalable cloud-native deployments, sustainable architectures, and developer experience."
     favicon = "favicon.ico"
     # what sections
     showSkills = true
