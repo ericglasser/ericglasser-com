@@ -34,6 +34,10 @@ enableGitInfo = false
 
     showQr = false
 
+[[params.customSections]]
+    name = "Blog"
+    url = "https://www.biopticcoder.com/"
+
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/ericglasser/"
