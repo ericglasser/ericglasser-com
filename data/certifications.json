@@ -2,37 +2,26 @@
 	{
 		"name": "AWS Solutions Architect",
 		"description": "AWS Certified Solutions Architect – Professional",
-		"badge": "https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png",
-		"proof": "https://www.credly.com/badges/61028504-fbc6-440d-9872-6c9301134aea"
+		"badge": "https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
 	},
 	{
 		"name": "AWS DevOps Engineer",
 		"description": "AWS Certified DevOps Engineer – Professional",
-		"badge": "https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png",
-		"proof": "https://www.credly.com/badges/3cb1ac18-fd9e-414d-996d-67fad6757c83"
+		"badge": "https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"
 	},
 	{
 		"name": "AWS Cloud Practitioner",
 		"description": "AWS Certified Cloud Practitioner",
-		"badge": "https://images.credly.com/size/640x640/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
-		"proof": "https://www.credly.com/badges/7e6f4ee6-b0a0-4e10-989a-a65418aec032"
+		"badge": "https://images.credly.com/size/640x640/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 	},
 	{
 		"name": "AWS Machine Learning Engineer",
 		"description": "AWS Certified Machine Learning Engineer - Associate",
-		"badge": "https://images.credly.com/size/340x340/images/61be54cd-5c56-4299-add4-99a38ab7ee50/image.png",
-		"proof": "https://www.credly.com/badges/61028504-fbc6-440d-9872-6c9301134aea"
+		"badge": "https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png"
 	},
 	{
 		"name": "AWS AI Practitioner",
 		"description": "AWS Certified AI Practitioner",
-		"badge": "https://images.credly.com/size/340x340/images/e9a2b8e3-0599-4c15-bcb2-89b4f9f257d0/image.png",
-		"proof": "https://www.credly.com/badges/7e6f4ee6-b0a0-4e10-989a-a65418aec032"
-	},
-	{
-		"name": "Honored Listee",
-		"description": "Marquis Who's Who Honored Listee",
-		"badge": "https://images.credly.com/size/340x340/images/2839b2cd-292a-43c2-aa91-389f41b2c4d6/image.png",
-		"proof": "https://www.credly.com/badges/61028504-fbc6-440d-9872-6c9301134aea"
+		"badge": "https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"
 	}
 ]
