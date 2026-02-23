@@ -103,7 +103,16 @@ Edit `data/certifications.json` - includes badge images and Credly proof links.
 
 ## Deployment
 
-This site is automatically deployed to GitHub Pages. The production build outputs to the `public/` directory.
+This site is automatically deployed to Cloudflare Pages. The production build outputs to the `public/` directory, and the configuration is managed via `wrangler.toml`.
+
+To deploy manually using Wrangler:
+```bash
+# Build the site
+npm run build # or hugo --minify
+
+# Deploy to Cloudflare Pages
+npm run deploy # or npx wrangler pages deploy public
+```
 
 ## Theme Submodules
 

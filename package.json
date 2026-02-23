@@ -1,0 +1,14 @@
+{
+    "name": "ericglasser-com",
+    "version": "1.0.0",
+    "description": "Personal Website",
+    "private": true,
+    "scripts": {
+        "start": "hugo server -D",
+        "build": "hugo --minify",
+        "deploy": "wrangler pages deploy public"
+    },
+    "devDependencies": {
+        "wrangler": "^3.0.0"
+    }
+}
