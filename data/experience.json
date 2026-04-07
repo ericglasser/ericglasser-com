@@ -1,75 +1,44 @@
 [
     {
-        "role":"Principal Cloud Application Architect",
-        "company":"Amazon Web Services (AWS)",
-        "range":"April 2022 - Present",
-        "summary":"As a Principal Cloud Application Architect at AWS, I am responsible for designing and implementing highly scalable, fault-tolerant, and secure cloud-native solutions for enterprise customers. With a deep understanding of AWS services, I work closely with cross-functional teams to develop and execute on technology strategies that drive business outcomes. I specialize in cloud application architecture, DevOps, automation, and infrastructure as code, and am passionate about helping customers achieve their goals through the power of cloud technology."
+        "role": "Principal Cloud Application Architect",
+        "company": "Amazon Web Services (AWS)",
+        "range": "April 2020 – January 2026",
+        "summary": "Lead architect on a **$30M+ portfolio** of enterprise consulting engagements across healthcare, life sciences, financial services, HR technology, and media. Promoted to Principal (L7) in Q1 2022; rated Top Tier.\n\n**Signature engagements** included: a **$1.5M GenAI reporting portal** with chat-based NLP authoring released to ~300 enterprise customers; an **agentic AI engagement** for a top-10 global biopharma using Bedrock AgentCore with GxP compliance (ICH E6, 21 CFR); a **$6.3M greenfield serverless + ML platform** for a global pharmaceutical company where downstream impact grew from $313K/mo to $9.2M/mo; a **$2.8M genomics pipeline** that scaled to 1,000+ concurrent samples, reduced runtime from 20 to 9 hours, and cut per-sample cost from $33 to $6.72; an **ML-powered inspection platform** for a Fortune 50 manufacturer that reduced defect rejection by 80%; and a **10PB cross-account migration** for a Fortune 100 media company's AI workloads.\n\nDeployed consultants as an away team to an AWS service team to co-develop a product feature, directly shaping the service roadmap. Created a cross-practice training program for ML/Data Engineers transitioning to GenAI development. Submitted 7 Product Feature Requests driving customer insights into platform roadmaps.\n\nMentored **24+ engineers** across career development and promotion readiness. Conducted **200+ technical interviews**. SDE-certified interviewer and BRIT graduate. Founded the NAMER SDT Apps Principals community.\n\n**President of AWS People with Disabilities at Global Services (PWD@GS)**, scaling from a Denver chapter to a global organization across NAMER, EMEA, APJ, and GCR. Led multi-year effort to make AWS certification exams screenreader-accessible. Presented at Amazon GAAM 2020 to 1,400+ attendees. AWS Tier 2 Speaker certified."
     },
     {
-        "role":"Sr. Cloud Application Architect",
-        "company":"Amazon Web Services (AWS)",
-        "range":"March 2020 - March 2022",
-        "summary":"As a Sr. Cloud Application Architect at AWS, I worked as a technical leader to collaborate with customer business, development, and infrastructure teams. My responsibilities included leading technical and design discussions with IT executives, architecting and building highly scalable, cloud-native applications on the AWS platform using core developer services such as API Gateway, Lambda, SQS, DynamoDB, and ECS. Additionally, I advised customers on implementing AWS best practices, migrated monolithic applications to microservices architectures, and influenced customer infrastructure architecture by sharing my application development expertise."
+        "role": "Sr. Technical Account Manager",
+        "company": "Amazon Web Services (AWS)",
+        "range": "June 2019 – March 2020",
+        "summary": "Provided white-glove architectural guidance and risk management for complex multi-region enterprise environments, bridging deep technical analysis with executive-level communication. Led operational reviews and performance tuning across S3, EC2, CloudFront, and networking stacks, reducing incident frequency and improving cost efficiency."
     },
     {
-        "role":"Sr. Technical Account Manager",
-        "company":"Amazon Web Services (AWS)",
-        "range":"June 2019 - March 2020",
-        "summary":"As a Senior Technical Account Manager Architect at AWS, I was responsible for building and executing strategies to drive my customers’ adoption and use of AWS services, such as EC2, S3, DynamoDB & RDS databases, Lambda, CloudFront CDN, IoT, and many more. I represented AWS within the customer's environment and drove discussions with senior leadership regarding incidents, trade-offs, support, and risk management. Additionally, I provided advocacy and strategic technical guidance to help plan and build solutions using best practices and proactively monitored my customers’ AWS environments to keep them operationally healthy."
-
+        "role": "Principal Engineer",
+        "company": "Trace3",
+        "range": "July 2017 – June 2019",
+        "summary": "Known internally as **\"The Container Guy.\"** Go-to architect for containerization strategy across hybrid cloud environments. Designed containerized platforms using Kubernetes, Rancher, and AWS/GCP hybrid strategies for enterprise clients. Led **$1M+ cloud migration programs**. Created multi-cloud networking topologies and fault-tolerant infrastructure for CI/CD and DevSecOps pipelines. Delivered executive briefings on cloud-native architecture, platform resiliency, and observability to C-suite stakeholders."
     },
     {
-        "role":"Principal Engineer (The Container Guy)",
-        "company":"Trace3",
-        "summary":"As a Principal Consultant Architect at Trace3, I built product offerings for the cloud consulting practice that combined open source, customer development, and partners to accelerate a customer's journey and streamline the SOW process. I also built SOWs for customer engagements, executed on delivering, including building the delivery team, and worked with leadership to develop a plan for next steps to grow the consulting organization. Additionally, I maintained and developed relationships with partners such as Docker and Nginx to build joint offerings, assisted sales teams with pre-sales support and technical recommendations, and developed container adoption strategies for on-premise and multi-cloud environments. I leveraged my strong consulting skills, technical ability, development knowledge, and architecture strategy to assess the needs of an organization, design and align it around DevOps solutions, and implement a project to enable customers to improve the delivery of services/products. Furthermore, I worked with organizations to deploy, develop, configure, and support all technologies required to support DevOps solutions, led a team of engineers to implement DevOps solutions, and created or contributed to deliverables, technical and non-technical, required to support customer transformation.",
-        "range":"July 2017 - June 2019"
+        "role": "Application Architect",
+        "company": "Minerva Group, LLC",
+        "range": "May 2015 – July 2017",
+        "summary": "Architected and delivered custom SaaS platforms with six-figure budgets, owning full lifecycle from stakeholder alignment through production deployment with multi-region HA."
     },
     {
-        "role":"Founder, Engineer, and Architect",
-        "company":"Minerva Group, LLC",
-        "summary":"As a founder, software engineer, and solution architect at Minerva, I led a venture capital group that invested intellectual equity to transform ideas into successful products. In addition to being part of the company's think tank of experienced technologists who are passionate about building products that change the way people interact with their world, I acted as a CTO for medium-sized technology companies, architected and executed on $100,000+ software builds, pitched clients for new business, developed comprehensive software and IT strategies for clients, built an internal development team, and created a company culture. I also managed vendors both internally and for clients, developed standardized architectures for other development companies, taught clients Agile to help them improve their internal process and communication, setup production cloud infrastructures and deployments, and performed database and code performance profiling. Our company culture fosters ownership internally, ensuring that we deliver the best results.",
-        "range":"May 2015 - July 2017"
+        "role": "Manager, UX Development",
+        "company": "Charter Communications",
+        "range": "August 2014 – May 2015",
+        "summary": "Built middleware for cable set-top-box interfaces; led a team of 10 front-end developers shipping customer-facing features on proprietary JavaScript frameworks."
     },
     {
-        "role":"Manager, UX Development",
-        "company":"Charter Communications ",
-        "summary":"Worked on proprietary Javascript framework to run on cable boxes. Worked with back end teams to develop APIs, and troubleshoot issues through multiple departments and vendors. Wrote unit testable code, and code reviewed developers. Provided network support to a team of 100 people. Managed development of a company wide product release site.",
-        "range":"August 2014 - May 2015"
+        "role": "Interactive Developer",
+        "company": "Crispin Porter & Bogusky",
+        "range": "January 2013 – February 2014",
+        "summary": "Built web experiences for Kraft and American Express."
     },
     {
-        "role":"Developer",
-        "company":"LRXD",
-        "summary":"Developed and maintained Ruby on Rails customer loyalty application. Developed a responsive admin panel for doctor’s office email management system. Setup and maintained Jenkins continuous deployment server.",
-        "range":"March  2014 - August 2014"
-    },
-    {
-        "role":"Developer",
-        "company":"Crispin Porter & Bogusky",
-        "summary":"Developed websites for large brands such as Kraft and American Express. Worked with clients on problem solving and architecture planning. Worked with and developed proprietary APIs. Worked with creatives in order to build marketing campaigns. Mentored junior developers and interns.",
-        "range":"January  2013 - February 2014"
-    },
-    {
-        "role":"Entrepreneur/Developer",
-        "company":"Tritium Studios",
-        "summary":"Founded and manage web development company for small and medium sized companies. Manage both employees and independent contractors. Consult with businesses regarding the development of their digital and marketing strategy.",
-        "range":"April 2011 - December 2012"
-    },
-    {
-        "role":"Technology Intern",
-        "company":"R/GA",
-        "summary":"Worked on and tested mobile applications for Nike. Developed client documentation for Verizon. Updated Nokia’s development and testing site for their worldwide kiosk system. Worked on and developed PHP web applications.",
-        "range":"June 2010 - August 2010"
-    },
-    {
-        "role":"Engineering Intern",
-        "company":"Skanska USA Building Inc.",
-        "summary":"Designed and Developed Excel and Access database systems for creating metrics of accounts payable. Researched and prepared a report on green technology to be distributed within the organization.",
-        "range":"June 2009 - August 2009"
-    },
-    {
-        "role":"Mutual Fund Analyst Intern",
-        "company":"Joseph Gunnar & Co, LLC",
-        "summary":"Created Excel spreadsheets to analyze mutual funds, and present the results in a usable form. Designed manual of the companies mutual fund software, in order to assist brokers.",
-        "range":"June 2008 - August 2008"
+        "role": "Founder",
+        "company": "Tritium Studios",
+        "range": "April 2011 – December 2012",
+        "summary": "Founded and ran a web development consultancy for small and medium-sized businesses."
     }
 ]

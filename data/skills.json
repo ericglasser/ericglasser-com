@@ -1,21 +1,62 @@
 [
-  {
-      "grouping":"Architecture",
-      "skills":[ "Kubernetes","12-Factor Apps","Containers","PAAS","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Typescript","Ruby","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Github","Bitbucket","NGINX","MySQL","Wordpress", "Hugo", "MongoDB", "GitLab", "Jenkins"]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"}
-      ]
-  }
+    {
+        "grouping": "GenAI & AI Infrastructure",
+        "skills": [
+            "Amazon Bedrock",
+            "Bedrock AgentCore",
+            "RAG Pipelines",
+            "Agentic Workflows",
+            "LangChain",
+            "Prompt Engineering",
+            "Claude Code",
+            "Amazon Q Developer",
+            "GitHub Copilot",
+            "Ollama"
+        ]
+    },
+    {
+        "grouping": "Cloud & Systems Architecture",
+        "skills": [
+            "AWS (Expert)",
+            "GCP",
+            "Distributed Systems",
+            "Event-Driven Microservices",
+            "Fault-Tolerant Design",
+            "Domain-Driven Design",
+            "Docker",
+            "Kubernetes",
+            "ECS/EKS",
+            "Serverless"
+        ]
+    },
+    {
+        "grouping": "Languages & Data",
+        "skills": [
+            "Python",
+            "TypeScript",
+            "Node.js",
+            "Ruby",
+            "DynamoDB",
+            "Redis",
+            "PostgreSQL",
+            "Elasticsearch",
+            "MongoDB",
+            "RedShift",
+            "QuickSight"
+        ]
+    },
+    {
+        "grouping": "DevOps & Practices",
+        "skills": [
+            "Terraform",
+            "CDK",
+            "GitHub Actions",
+            "Jenkins",
+            "CodeDeploy",
+            "Observability (X-Ray, OpenTelemetry)",
+            "Agile",
+            "Accessible Design",
+            "GxP Compliance"
+        ]
+    }
 ]
